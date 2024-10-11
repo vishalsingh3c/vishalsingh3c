@@ -5,5 +5,3 @@
 - 📫 How to reach me: Feel free to contact me via GitHub or my professional networks.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a big fan of creating modular monoliths that scale efficiently! 
-
-Let me know if you’d like to adjust or add anything!
