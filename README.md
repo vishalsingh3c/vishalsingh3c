@@ -1,5 +1,3 @@
-Here’s a draft that fits you based on what we've discussed:
-
 - 👋 Hi, I’m @vishalsingh3c
 - 👀 I’m interested in building scalable apps, multivendor ecommerce platforms, and event-driven architectures.
 - 🌱 I’m currently learning advanced techniques in React Native, Phalcon, and state management with Zustand and Riverpod.
